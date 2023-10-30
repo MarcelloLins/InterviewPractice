@@ -4,7 +4,6 @@ import org.junit.jupiter.api.Test
 import kotlin.test.assertContentEquals
 
 class TwoSumTest {
-
   @Test
   fun testTwoSumFaster_ValidInput() {
     val nums = intArrayOf(2, 7, 11, 15)
